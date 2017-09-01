@@ -1,0 +1,63 @@
+#MODULE1_REVIEW 1.1 - Intro to reviewing Module 1
+#MODULE1_REVIEW 1.2 - What did we learn and build?
+#MODULE1_REVIEW 1.4 - Where do we go from here?
+#MODULE1_REVIEW 1.1 - Outro to reviewing Module 1
+
+
+
+#MODULE1_REVIEW 1.1 - Intro to reviewing Module 1
+Hey Chris from Codify Academy here, I want to review with you what we hopefully learned about and built in the last video series.
+
+If you missed anything check out the link in the description to that series.
+
+
+
+#MODULE1_REVIEW 1.2 - What did we learn and build?
+I'm sure some if not all of those videos were a struggle and had you full of frustration, this happens to me when I'm trying to do something the first few times.
+
+Remember to flex your frustration muscle, try to recognize when when the frustration is nearing you tipping, then you know its time to get away, and do something else for a bit.
+
+I can't tell you how many times I came back to a problem in code with a solution because I stepped away for a while.
+
+Ok, so on to the review,
+  We saw where to find additional resources each week in Litmos.
+
+  We messed around with the hidden git folders, remember if you delete that folder you can't push those project changes to the same repo, but you could clone the same repo from GitHub make changes and then upload that one. We removed ours from the template folder so we can start projects that can be loaded up to GitHub.
+
+  We learned the 3 ways to we can include CSS, make sure to use an external style sheet.
+
+  We learned a few difference between front end and back end developers.
+
+  We learned how to include images and anchor tags a few different ways.
+
+  We learned the differences in a Block vs an Inline element, a div vs a span tag, and a class vs a id attribute.
+
+  We saw how we can float div elements so we can make boxes sit next to each other.
+
+  We downloaded and used font-awesome icons
+
+  We explored what the box model of an element is and how it affects other elements around it.
+
+  We learned how to avoid common HTML and CSS mistakes and how to find the ones we create.
+
+  We saw how to use a file path in a few places
+
+  We saw how to replicate the Google homepage with my brother Matt.
+
+  and we could of watched me code the site from scratch.
+
+  and finally we loaded up our Google Homepage Replica up to GitHub.
+
+
+
+
+#MODULE1_REVIEW 1.4 - Where do we go from here?
+Deep Breath --- Woo that was a lot to take in, just remember to practice every single day and all of this stuff will become like second nature to you shortly.
+
+
+#MODULE1_REVIEW 1.5 - Outro to reviewing Module 1
+Thats all I have for you now, again if you need to go back to the previous video series and complete anything you missed, or review these concepts anytime.
+
+
+LINKS
+link to week 1 playlist - http://bit.ly/2wYQ3vR
