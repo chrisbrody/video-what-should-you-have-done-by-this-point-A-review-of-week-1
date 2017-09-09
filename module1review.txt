@@ -1,7 +1,7 @@
 #MODULE1_REVIEW 1.1 - Intro to reviewing Module 1
 #MODULE1_REVIEW 1.2 - What did we learn and build?
-#MODULE1_REVIEW 1.4 - Where do we go from here?
-#MODULE1_REVIEW 1.1 - Outro to reviewing Module 1
+#MODULE1_REVIEW 1.3 - Where do we go from here?
+#MODULE1_REVIEW 1.4 - Outro to reviewing Module 1
 
 
 
@@ -13,9 +13,9 @@ If you missed anything check out the link in the description to that series.
 
 
 #MODULE1_REVIEW 1.2 - What did we learn and build?
-I'm sure some if not all of those videos were a struggle and had you full of frustration, this happens to me when I'm trying to do something the first few times.
+I'm sure that most, if not all of the videos in the last series were a struggle and got you pretty frustrated.
 
-Remember to flex your frustration muscle, try to recognize when when the frustration is nearing you tipping, then you know its time to get away, and do something else for a bit.
+Remember since you're just building up your frustration muscle, try to recognize when you're nearing you tipping, and git up and do something else for a bit.
 
 I can't tell you how many times I came back to a problem in code with a solution because I stepped away for a while.
 
@@ -51,13 +51,15 @@ Ok, so on to the review,
 
 
 
-#MODULE1_REVIEW 1.4 - Where do we go from here?
+#MODULE1_REVIEW 1.3 - Where do we go from here?
 Deep Breath --- Woo that was a lot to take in, just remember to practice every single day and all of this stuff will become like second nature to you shortly.
 
 
-#MODULE1_REVIEW 1.5 - Outro to reviewing Module 1
+#MODULE1_REVIEW 1.4 - Outro to reviewing Module 1
 Thats all I have for you now, again if you need to go back to the previous video series and complete anything you missed, or review these concepts anytime.
 
 
 LINKS
-link to week 1 playlist - http://bit.ly/2wYQ3vR
+link to prework playlist - https://www.youtube.com/watch?v=N7v4GpDstdE&index=2&list=PLvyX_84L7-lvtfaQnfZrlb7TAU9TZKsMP
+
+http://bit.ly/2xTpMv7
